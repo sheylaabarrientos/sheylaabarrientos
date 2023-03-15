@@ -15,6 +15,6 @@ speech_balloon Ask me about HTML5, CSS3
 Recently I lost my acess to my first account on GitHub, here is the link to see my evolution: https://github.com/sheylaabarrientos
 
 <!---
-sheylaabarrientos/sheylaabarrientos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sheylaabarrientos/sheylabarrientos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
