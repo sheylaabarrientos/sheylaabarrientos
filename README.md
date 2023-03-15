@@ -12,7 +12,7 @@ seedling I’m currently learning Java, JavaScript
 
 speech_balloon Ask me about HTML5, CSS3
 
-Recently I lost my acess to my first account on GitHub, here is the link to see my evolution: https://github.com/sheylaabarrientos
+Recently I lost my acess to my first account on GitHub, here is the link to see my evolution: https://github.com/sheylabarrientos
 
 <!---
 sheylaabarrientos/sheylabarrientos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
